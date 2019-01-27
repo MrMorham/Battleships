@@ -1,0 +1,11 @@
+C:\Users\g7058\documents\visual studio 2017\Projects\Battleships\Battleships\bin\Release\netcoreapp1.1\Battleships.deps.json
+C:\Users\g7058\documents\visual studio 2017\Projects\Battleships\Battleships\bin\Release\netcoreapp1.1\Battleships.runtimeconfig.json
+C:\Users\g7058\documents\visual studio 2017\Projects\Battleships\Battleships\bin\Release\netcoreapp1.1\Battleships.runtimeconfig.dev.json
+C:\Users\g7058\documents\visual studio 2017\Projects\Battleships\Battleships\bin\Release\netcoreapp1.1\Battleships.dll
+C:\Users\g7058\documents\visual studio 2017\Projects\Battleships\Battleships\bin\Release\netcoreapp1.1\Battleships.pdb
+C:\Users\g7058\documents\visual studio 2017\Projects\Battleships\Battleships\obj\Release\netcoreapp1.1\Battleships.csproj.CoreCompileInputs.cache
+C:\Users\g7058\documents\visual studio 2017\Projects\Battleships\Battleships\obj\Release\netcoreapp1.1\Battleships.AssemblyInfoInputs.cache
+C:\Users\g7058\documents\visual studio 2017\Projects\Battleships\Battleships\obj\Release\netcoreapp1.1\Battleships.AssemblyInfo.cs
+C:\Users\g7058\documents\visual studio 2017\Projects\Battleships\Battleships\obj\Release\netcoreapp1.1\Battleships.dll
+C:\Users\g7058\documents\visual studio 2017\Projects\Battleships\Battleships\obj\Release\netcoreapp1.1\Battleships.pdb
+C:\Users\g7058\Documents\Visual Studio 2017\Projects\Battleships\Battleships\obj\Release\netcoreapp1.1\Battleships.csprojAssemblyReference.cache
